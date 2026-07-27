@@ -2,12 +2,14 @@
   "name": "medium-voltage-project-execution-simulator",
   "version": "0.1.0",
   "private": true,
+  "packageManager": "pnpm@11.9.0",
   "engines": {
     "node": ">=22.13.0"
   },
   "scripts": {
     "dev": "vinext dev",
     "build": "vinext build",
+    "build:pages": "next build",
     "start": "vinext start",
     "test": "pnpm run build && node --test tests/rendered-html.test.mjs",
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next",

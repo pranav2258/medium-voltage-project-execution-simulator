@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://pranav2258.github.io/medium-voltage-project-execution-simulator/"),
   title: "MV-24 Project Control Simulator",
   description: "An end-to-end medium-voltage power distribution project execution and commissioning simulator.",
   openGraph: {

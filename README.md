@@ -6,6 +6,8 @@ A completed, end-to-end educational simulation of a **$3.10M municipal medium-vo
 
 ## Live application
 
+[Open the public GitHub Pages deployment](https://pranav2258.github.io/medium-voltage-project-execution-simulator/)
+
 The deployed dashboard presents five connected project-control views:
 
 - **Overview:** project health, contract value, forecast at completion, scope, simplified single-line diagram, milestone outlook, and budget control

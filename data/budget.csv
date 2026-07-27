@@ -1,0 +1,7 @@
+control_account,baseline_k,actual_to_date_k,open_commitment_k,estimate_to_complete_k,forecast_at_completion_k,variance_k
+Equipment,1780,1512,214,86,1812,-32
+Engineering,310,271,12,15,298,12
+Field service,420,136,62,249,447,-27
+Freight and logistics,145,151,7,0,158,-13
+Contingency,185,46,0,75,121,64
+Total,2840,2116,295,425,2836,4

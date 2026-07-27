@@ -1,0 +1,5 @@
+id,category,finding,owner,opened,due,status,closure_evidence
+A-02,A,Replace damaged CT terminal blocks,Factory Lead,2026-07-02,2026-07-30,Open,Replacement kit tracking and installation record
+B-05,B,Update cubicle nameplates to approved naming convention,Field Service Lead,2026-07-18,2026-08-02,Open,Photographic evidence and drawing redline
+B-08,B,Deliver signed customer training attendance log,Customer Care,2026-07-24,2026-08-06,Open,Signed attendance record
+B-11,B,Close two minor paint touch-up findings,Field Service Lead,2026-07-18,2026-07-31,Closed,Customer-accepted photographs

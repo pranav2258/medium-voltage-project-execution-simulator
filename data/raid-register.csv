@@ -1,0 +1,6 @@
+id,type,description,probability,impact,score,owner,response,due_date,status,escalation
+R-07,Risk,Protection relay delivery may miss installation window,4,4,16,Supply Chain,Expedite vendor and approve qualified alternate,2026-07-29,Mitigating,Sponsor weekly
+R-11,Risk,Customer cable schedule revision may affect SAT,3,4,12,Engineering Lead,Freeze interfaces and run weekly design review,2026-07-31,Open,PM weekly
+I-04,Issue,Two CT terminal blocks damaged during receiving,3,3,9,Factory Lead,Ship replacement kit and complete field installation,2026-07-30,Closing,PM daily
+A-02,Assumption,Customer outage window remains available,2,5,10,Customer Project Lead,Confirm window at every progress meeting,2026-08-01,Validated,PM weekly
+D-03,Decision,Use revised arc-flash labels before energization,2,3,6,Customer Project Lead,Approved through change request CR-003,2026-07-25,Decided,None

@@ -1,0 +1,17 @@
+id,wbs,activity,owner,start,finish,predecessor,percent_complete,status,critical_path
+1,1.0,Project kickoff,Project Manager,2026-02-03,2026-02-03,,100,Complete,Yes
+2,2.0,Requirements and specification review,Engineering Lead,2026-02-04,2026-02-14,1,100,Complete,Yes
+3,2.1,Customer drawing approval,Customer Project Lead,2026-02-17,2026-02-28,2,100,Complete,Yes
+4,3.0,Detailed engineering and design freeze,Engineering Lead,2026-03-03,2026-03-28,3,100,Complete,Yes
+5,4.0,Long-lead component procurement,Supply Chain,2026-03-10,2026-05-15,3,100,Complete,No
+6,4.1,Factory production,Factory Lead,2026-03-31,2026-06-05,4,100,Complete,Yes
+7,5.0,FAT readiness and procedure approval,Quality Lead,2026-05-20,2026-06-12,6,100,Complete,Yes
+8,5.1,Factory acceptance test,Factory Lead,2026-06-16,2026-06-18,7,100,Complete,Yes
+9,5.2,Shipment release and delivery,Logistics Lead,2026-06-20,2026-07-01,8,100,Complete,Yes
+10,6.0,Receiving inspection and site installation,Field Service Lead,2026-07-02,2026-07-18,9,78,At Risk,Yes
+11,6.1,Cable and control interface completion,Customer Project Lead,2026-07-07,2026-07-24,10,65,At Risk,Yes
+12,7.0,SAT and protection verification,Field Service Lead,2026-07-27,2026-08-06,11,22,Planned,Yes
+13,7.1,Energization,Customer Project Lead,2026-08-08,2026-08-08,12,0,Planned,Yes
+14,8.0,Training and punch-list closure,Customer Care,2026-08-10,2026-08-20,13,8,Planned,Yes
+15,8.1,Customer acceptance,Project Manager,2026-08-22,2026-08-22,14,0,Planned,Yes
+16,8.2,Financial closeout,Project Manager,2026-08-24,2026-09-05,15,0,Planned,No

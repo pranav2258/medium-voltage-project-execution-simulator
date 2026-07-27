@@ -1,0 +1,5 @@
+id,request,reason,cost_impact_k,schedule_impact_days,requested_by,decision,status,approval_date
+CR-001,Add remote breaker status points,Customer SCADA interface update,26.0,3,Customer,Approved,Implemented,2026-03-18
+CR-002,Expedite switchgear freight,Protect site installation milestone,14.5,-5,Project Manager,Approved,Implemented,2026-06-02
+CR-003,Revise and field-apply arc-flash labels,Final protection study changed incident-energy values,18.4,2,Customer,Approved,In execution,2026-07-25
+CR-004,Add second operator training session,Additional customer shift coverage,7.2,0,Customer,Pending,Under review,
